@@ -1,5 +1,5 @@
 public class typecasting {
-             public static void main(String[] args) throws Exception {args =stri
+             public static void main(String[] args) throws Exception {args
                   double myDouble = 9.78d;myDouble =9.780000
                     int myInt = (int) myDouble; // Manual casting: double to int myint=
                     
@@ -9,7 +9,7 @@ public class typecasting {
                 }
             }
             
-        }
-    }
+        
     
-}
+    
+
