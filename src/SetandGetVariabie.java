@@ -3,15 +3,18 @@ public class Ifs {
        // if (condition) 
       //     // block of code to be executed if the condition is true
      //    } else {
-        int a = 2;
-        int b = 4;
-        int c = 6;
-        int d = 8;
+        int a = 10;
+        int b = 200;
+        int c = 50;
+        int d = 30;
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
         System.out.println(d);
-        
+        if(b=200){
+           a=10;
+         }
+      if()        
 
 
         if(float> second){fist = 20, second =18
