@@ -1,7 +1,10 @@
-public class javas {
-    public static void main(String[] args) throws Exception {
-        static name= "jin a sung";
-        System.out.println("jin a sunf!");
-        
+public class Main{
+    Run Debug 
+    public static void Main(String[]args) {
+        String name = "jina sung";
+        System. out.printl(name);
+     name ="sung"; 
+        //retun 0;
     }
 }
+
