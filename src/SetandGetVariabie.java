@@ -1,5 +1,6 @@
-public class Ifs {
-    public static void main(String[] args) throws Exception 
+import java.util.Scanner;
+public class SetandGetVariabie {
+    public static void main(String[] args) }
        // if (condition) 
       //     // block of code to be executed if the condition is true
      //    } else 
@@ -11,7 +12,7 @@ public class Ifs {
         System.out.println(b);
         System.out.println(c);
         System.out.println(d);
-        if(b=200){
+        if(b = 200){
            a=10;
          }
       if()        
