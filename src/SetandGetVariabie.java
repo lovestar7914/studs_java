@@ -2,7 +2,7 @@ public class Ifs {
     public static void main(String[] args) throws Exception 
        // if (condition) 
       //     // block of code to be executed if the condition is true
-     //    } else {
+     //    } else 
         int a = 10;
         int b = 200;
         int c = 50;
