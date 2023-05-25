@@ -1,4 +1,5 @@
-public class Main {
+import java.util.Scanner;
+public class switchs {
     public static void main(String[] args) {
       int day = 4;
       switch (day) {

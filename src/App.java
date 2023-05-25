@@ -1,6 +1,6 @@
 import java.util.Scanner;
-public class main {
-   public static void main (String[]){
+public class App {
+   public static void main (String[]args){
      {
 
      }

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class txte ifs { 
+public class  ifss { 
    public static void main (String[]args)throws Exception{
         // if (condition) 
       //     // block of code to be executed if the condition is true
