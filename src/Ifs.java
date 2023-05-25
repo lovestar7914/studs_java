@@ -1,5 +1,7 @@
+import java.util.Scanner;
 public class Ifs { 
    public static void main (String[]args)throws Exception{
+     Scanner Ifs = new Scanner(System.in);
         // if (condition) 
       //   block of code to be executed if the condition is true
      // } else{
@@ -40,7 +42,9 @@ public class Ifs {
 
       System.out.println("Hell,World!");
       //return 0;
-     }      
+    }
+}       
+
 
 
 
