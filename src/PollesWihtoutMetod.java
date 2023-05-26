@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class pollesWithoutMetod {
-    public static void main(String[] args){ 
+  public static void main(String[] args){ 
     Scanner myObj = new Scanner(System.in);
     String = answer ="";
     String[] answer ={"",""};
@@ -31,4 +31,4 @@ public class pollesWithoutMetod {
          System.out.println();
          // return 0;
     }
-}             
+}
