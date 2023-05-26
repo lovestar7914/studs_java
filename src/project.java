@@ -8,8 +8,8 @@ public class project {
         //{
             int fist = 1;
             int second =5;
-            int main =
-            int
+            int =
+       
             while (fist < second) {
                 fist = fist + 5;
     

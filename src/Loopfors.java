@@ -1,7 +1,8 @@
 import java.util.Scanner;
-public class Loopfors{ 
-    public static void main(String[] args){ 
-            for (int first = 5; first > second; first = first + 2); {
+
+public class Loopfors {
+  public static void main(String[] args){ 
+            for (int first = 5; first  second; first = first + 2); {
             // code block to be executed
             System.out.println (first) ;
             first = first +2
@@ -9,4 +10,4 @@ public class Loopfors{
         System.out.println();
           // return 0;
     }
-  }
+}
