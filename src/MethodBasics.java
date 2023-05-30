@@ -1,4 +1,4 @@
-public class MethodBasics{ 
+public class MethodBasics {
     // <access_modifier> <return_type> <method_name>( list_of_parameters)
     // {
     // //body
@@ -8,9 +8,9 @@ public class MethodBasics{
     {
         int result = x + 1;
         return result;
-
-        public static void main(String[] args) {
-      try {
+    }
+    public static void main(String[] args) {
+        try {
             int x = 4;
             int y = 0;
             // y = x + 1; // 변수에 + 1
@@ -29,3 +29,4 @@ public class MethodBasics{
         System.out.println();
         // return 0;
     }
+}
