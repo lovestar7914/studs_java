@@ -16,12 +16,11 @@ public class ForBuckets {
             for(int first =0;first< bucket.length;first = first +1 ){
              
                System.out.print((first+1)+"번째 담기:");
-               bucket[first] = bucket //Read user input
+               bucket [];
+             
             }   
-            int a;
-            int b;
-            int c;
-           
+            
+        
              System.out.println ("---담은 내용물---");
              System.out.println(bucket[0]+",");
              System.out.println(bucket[1]+",");
