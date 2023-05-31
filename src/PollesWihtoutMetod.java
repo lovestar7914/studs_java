@@ -1,6 +1,7 @@
 import java.util.Scanner;
-public class pollesWithoutMetod {
+public class PollesWihtoutMetod {
   public static void main(String[] args){ 
+
     Scanner myObj = new Scanner(System.in);
     String = answer ="";
     String[] answer ={"",""};
@@ -8,13 +9,12 @@ public class pollesWithoutMetod {
          {"1.문항" },
          {"(1)답항", "(2)"답항", "(3)답항"},
          {"2.문항},
-         {"(1)답항", "(2)"답항", "(3)답항"},
-    };
+         {"(1)답항", "(2)"답항", "(3)답항"};
       int count =0;
       for(int second 0; second < polls.length; second =second+2)
     System.out.println(polls[second][0]; 
     //답항 출력
-    System.out.print(s:"답하기:")
+    System.out.print(s:"답하기")
     answer[0]= myobj.nextLine();
     count = count +1;
 
