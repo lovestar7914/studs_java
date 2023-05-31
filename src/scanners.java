@@ -18,9 +18,8 @@ public class scanners{
          System.out.println("letter Default  ");   
          break;
       
-        }
-        count++;
-        System.out.println("count:"+ count); //Output user input
+        } count++;
+        System.out.println("count:"+ "count"); //Output user input
       }
   }
 }    

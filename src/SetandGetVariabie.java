@@ -13,17 +13,9 @@ public class SetandGetVariabie {
    int e = 200;
    int f = 50;
    int g = 30;
-   int h = 10;
-   System.out.println(a+""+b+""+c+""+d+""+e+""+f+""+g+""+h);
-   
-   System.out.println(b);
-   System.out.println(c);
-   System.out.println(d);
-   } if (b=200){
-      System.out.println(a=h)
-   {
+   int h = 10;System.out.println(a+""+b+""+c+""+d+""+e+""+f+""+g+""+h);
 
-   }elas
-    System.out.println(c)
-   }
-}
+   System.out.println(b);System.out.println(c);System.out.println(d);
+}if(b=200){System.out.println(a=h){
+
+}elas System.out.println(c)}}

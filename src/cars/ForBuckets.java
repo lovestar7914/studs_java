@@ -1,4 +1,4 @@
-package cases;
+package cars;
 import java.io.InputStream;
 import java.util.Scanner;// Import the Scanner class
 

@@ -36,5 +36,5 @@ public class Methods {
 }
 
      int result = 0;
-     int first
+     int first =
      int second =
